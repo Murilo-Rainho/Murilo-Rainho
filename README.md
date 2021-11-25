@@ -1,6 +1,6 @@
 ### Hi there!!
 
-I'm a web developer student at Trybe and, one day, I'll a data scientist 🙌
+I'm a Web Development student at Trybe. One day, I'll be a Data Scientist 🙌
 
  <div>
   <a href="https://github.com/Murilo-Rainho">
