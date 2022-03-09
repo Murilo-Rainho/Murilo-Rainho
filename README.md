@@ -11,6 +11,7 @@ I'm a Web Development student at Trybe. I'm a fullstack developer with a prefere
   ##
   
 <div style="display: flex"><br>
+   <code><img align="center" alt="Logo-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></code>
   <code><img align="center" alt="Logo-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></code>
   <code><img align="center" alt="Logo-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg"></code>
   <code><img align="center" alt="Logo-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg"></code>
@@ -18,6 +19,7 @@ I'm a Web Development student at Trybe. I'm a fullstack developer with a prefere
   <code><img align="center" alt="Logo-Redux" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"></code>
  <code><img align="center" alt="Logo-NodeJS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"></code>
  <code><img align="center" alt="Logo-Express" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"></code>
+  <code><img align="center" alt="Logo-Express" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg"></code>
  <code><img align="center" alt="Logo-MySQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg"></code>
  <code><img align="center" alt="Logo-Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg"></code>
  <code><img align="center" alt="Logo-Docker" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg"></code>
