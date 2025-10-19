@@ -12,7 +12,7 @@ I'm a Web Development student at Trybe. I'm a fullstack developer with a prefere
   
 <div style="display: flex"><br>
   <code><img align="center" alt="Logo-NodeJS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></code>
-  <code><img align="center" alt="Logo-NodeJS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain.svg"></code>
+  <code><img align="center" alt="Logo-NodeJS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-plain.svg"></code>
   <code><img align="center" alt="Logo-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
   <code><img align="center" alt="Logo-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"></code>
 </div>
