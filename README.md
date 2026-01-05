@@ -1,12 +1,6 @@
 ### Hi there!!
 
-I'm a Web Development student at Trybe. I'm a fullstack developer with a preference on the backend.
-
- <div>
-  <a href="https://github.com/Murilo-Rainho">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Murilo-Rainho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murilo-Rainho&layout=compact&langs_count=7&theme=dark"/>
-</div>
+I'm a full-stack developer with 4 years of experience. I have AWS Cloud Practitioner certification and some interesting professional experiences that you can see more of on my LinkedIn profile ;)
   
   ##
   
